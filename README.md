@@ -13,4 +13,4 @@ The project is being built using TDD. Check out the failing tests and the issue 
 
 For more information:
 * Here's an [introduction to NPM](http://howtonode.org/introduction-to-npm)
-* And the [mocha documentation](http://visionmedia.github.io/mocha/)
+* And the [mocha documentation](http://mochajs.org/)
